@@ -1,5 +1,23 @@
 # Music-Player
 A desktop music player with playlist management, audio playback and a graphical user interface 
+
+## Screenshots
+
+### Home Screen
+![Home Screenshot](screenshots/home%20screenshot.png)
+
+### Music Player
+![Now Playing Screenshot](screenshots/now%20playing%20screenshot.png)
+
+### Playlists
+![Music Playlist Screenshot](screenshots/music%20playlist%20screenshot.png)
+
+### Favorites
+![Favorites Screenshot](screenshots/favorites%20screenshot.png)
+
+### Recent Playlist
+![Recent Playlist Screenshot](screenshots/recent%20playlist%20screenshot.png)
+
 ## Overview
 
 MusicPlayer is a desktop music application built with Python that allows users to play audio files, manage playlists, and interact with a graphical user interface.
