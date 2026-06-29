@@ -28,7 +28,6 @@ The project is organized into different files with separate responsibilities:
 
 - `player.py` - Handles the graphical user interface (GUI) and user interaction
 - `engine.py` - Handles the core application logic and music player functionality
-- `assets/` - Contains images and application resources
 - `music/` - Contains audio files used by the application
 
 
