@@ -4,19 +4,19 @@ A desktop music player with playlist management, audio playback and a graphical 
 ## Screenshots
 
 ### Home Screen
-![Home Screenshot](screenshots/home%20screenshot.png)
+![Home Screenshot](Screenshots/home%20screenshot.png)
 
 ### Music Player
-![Now Playing Screenshot](screenshots/now%20playing%20screenshot.png)
+![Now Playing Screenshot](Screenshots/now%20playing%20screenshot.png)
 
 ### Playlists
-![Music Playlist Screenshot](screenshots/music%20playlist%20screenshot.png)
+![Music Playlist Screenshot](Screenshots/music%20playlist%20screenshot.png)
 
 ### Favorites
-![Favorites Screenshot](screenshots/favorites%20screenshot.png)
+![Favorites Screenshot](Screenshots/favorites%20screenshot.png)
 
 ### Recent Playlist
-![Recent Playlist Screenshot](screenshots/recent%20playlist%20screenshot.png)
+![Recent Playlist Screenshot](Screenshots/recent%20playlist%20screenshot.png)
 
 ## Overview
 
